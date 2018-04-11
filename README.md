@@ -1,4 +1,4 @@
-# GitHub for Developers - Bharathi changes
+# GitHub for Developers - Conflicts resolved
 
 - Class Date: Apr 9-12, 2018
 - Facilitator: @hectorsector
