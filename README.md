@@ -1,4 +1,4 @@
-# GitHub for Developers
+# ANOTHER CHANGE GitHub for Developers
 
 - Class Date: Apr 9-12, 2018
 - Facilitator: @hectorsector
