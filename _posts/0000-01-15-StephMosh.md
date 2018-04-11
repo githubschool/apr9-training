@@ -1,9 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "@Steph woohoo"
 ---
 
-![philosoraptor](https://cloud.githubusercontent.com/assets/16547949/25401001/66d677c6-29c2-11e7-9b12-263e036c236e.jpg)
+![morpheus](https://cloud.githubusercontent.com/assets/16547949/25400958/410316ee-29c2-11e7-9e6d-9d13999e76e3.jpg)
 {: .center}
 
-Caption here
+I am so clever that sometimes I don't understand a single word of what I am saying.
+
