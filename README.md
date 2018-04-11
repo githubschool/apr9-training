@@ -1,4 +1,5 @@
-# GitHub for Developers
+# GitHub for Developers Modified
+# Added for Conflict
 
 - Class Date: Apr 9-12, 2018
 - Facilitator: @hectorsector
