@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers Test Trial
 
 - Class Date: Apr 9-12, 2018
 - Facilitator: @hectorsector
