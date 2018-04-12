@@ -3,6 +3,8 @@
 - Class Date: Apr 9-12, 2018
 - Facilitator: @hectorsector
 
+ https://githubschool.github.io/github-games-sridevikopuri/.
+
 ## Talk to Us!!
 
 If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
